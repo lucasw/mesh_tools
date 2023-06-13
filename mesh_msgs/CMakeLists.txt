@@ -16,6 +16,7 @@ add_message_files(
   MeshMaterial.msg
   MeshGeometry.msg
   MeshGeometryStamped.msg
+  MeshGeometryStampedArray.msg
   MeshMaterials.msg
   MeshMaterialsStamped.msg
   MeshVertexColors.msg
