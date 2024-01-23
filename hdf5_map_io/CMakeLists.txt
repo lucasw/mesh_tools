@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 project(hdf5_map_io)
 
-set(CMAKE_CXX_STANDARD 14)
-
 find_package(catkin REQUIRED)
 find_package(LVR2 REQUIRED)
 find_package(MPI)
